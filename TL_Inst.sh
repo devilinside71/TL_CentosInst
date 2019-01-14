@@ -1,4 +1,5 @@
 cwd=$(pwd)
+eric_version="19.01"
 
 # Python
 sudo yum -y install https://rhel7.iuscommunity.org/ius-release.rpm
@@ -55,9 +56,10 @@ alias linguist='linguist-qt5'
 
 # Eric Python IDE
 rm -rf ericinst/
-unzip -o eric6-19.01.zip -d ericinst
-sudo python3.6 ericinst/eric6-19.01/install.py
+unzip -o eric6-$eric_version.zip -d ericinst
+sudo python3.6 ericinst/eric6-$eric_version/install.py
 sudo rm -rfd ericinst/
+cp -rf eric6.ini $HOME/.config/Eric6/
 
 sudo cp -rf tl_pyuic.py /usr/lib64/python3.6/
 sudo cp -rf PyuiCentos.sh /usr/bin/
