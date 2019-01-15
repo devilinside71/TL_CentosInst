@@ -338,25 +338,27 @@
                   <Path Filename="weblab">/home/</Path>
                   <Path Filename="Documents">/home/weblab/</Path>
                   <Path Filename="TL_CentosInst">/home/weblab/Documents/</Path>
-                  <Path Filename="TL_Inst.sh">/home/weblab/Documents/TL_CentosInst/</Path>
+                  <Path Filename="..">/home/weblab/Documents/TL_CentosInst/</Path>
+                  <Path Filename="..">/home/weblab/Documents/</Path>
+                  <Path Filename="tor-browser_en-US">/home/weblab/</Path>
+                  <Path Filename="..">/home/weblab/tor-browser_en-US/</Path>
+                  <Path Filename="Documents">/home/weblab/</Path>
+                  <Path Filename="..">/home/weblab/Documents/</Path>
+                  <Path Filename="Desktop">/home/weblab/</Path>
+                  <Path Filename="FortionMM-2.1">/home/weblab/Desktop/</Path>
+                  <Path Filename="data">/home/weblab/Desktop/FortionMM-2.1/</Path>
+                  <Path Filename="..">/home/weblab/Desktop/FortionMM-2.1/data/</Path>
+                  <Path Filename="..">/home/weblab/Desktop/FortionMM-2.1/</Path>
+                  <Path Filename="..">/home/weblab/Desktop/</Path>
+                  <Path Filename="Documents">/home/weblab/</Path>
+                  <Path Filename="EricProjects">/home/weblab/Documents/</Path>
+                  <Path Filename="Sample01">/home/weblab/Documents/EricProjects/</Path>
+                  <Path Filename="..">/home/weblab/Documents/EricProjects/Sample01/</Path>
+                  <Path Filename="..">/home/weblab/Documents/EricProjects/</Path>
                   <Path Filename="TL_CentosInst">/home/weblab/Documents/</Path>
-                  <Path Filename=".eric6">/home/weblab/</Path>
-                  <Path Filename="eric6plugins">/home/weblab/.eric6/</Path>
-                  <Path Filename="..">/home/weblab/.eric6/eric6plugins/</Path>
-                  <Path Filename="Downloads">/home/weblab/.eric6/</Path>
-                  <Path Filename="PluginSelectionEncloser-2_1_4.zip">/home/weblab/.eric6/Downloads/</Path>
+                  <Path Filename="CopyTlPyuic.sh">/home/weblab/Documents/TL_CentosInst/</Path>
                   <Path Filename="TL_CentosInst">/media/sf_LINUX_SHARED/</Path>
-                  <Path Filename="..">/media/sf_LINUX_SHARED/TL_CentosInst/</Path>
-                  <Path Filename="..">/media/sf_LINUX_SHARED/</Path>
-                  <Path Filename="sf_LINUX_SHARED">/media/</Path>
-                  <Path Filename="TL_CentosInst">/media/sf_LINUX_SHARED/</Path>
-                  <Path Filename="..">/media/sf_LINUX_SHARED/TL_CentosInst/</Path>
-                  <Path Filename="TL_CentosInst">/media/sf_LINUX_SHARED/</Path>
-                  <Path Filename="..">/media/sf_LINUX_SHARED/TL_CentosInst/</Path>
-                  <Path Filename="..">/media/sf_LINUX_SHARED/</Path>
-                  <Path Filename="sf_LINUX_SHARED">/media/</Path>
-                  <Path Filename="TL_CentosInst">/media/sf_LINUX_SHARED/</Path>
-                  <Path Filename="..">/media/sf_LINUX_SHARED/TL_CentosInst/</Path>
+                  <Path Filename="PyQtGUITest">/media/sf_LINUX_SHARED/TL_CentosInst/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -405,7 +407,9 @@
                   <Path Filename="..">/home/weblab/Documents/EricProjects/Sample01/</Path>
                   <Path Filename="..">/home/weblab/Documents/EricProjects/</Path>
                   <Path Filename="TL_CentosInst">/home/weblab/Documents/</Path>
-                  <Path Filename="tl_pyuic2.py">/home/weblab/Documents/TL_CentosInst/</Path>
+                  <Path Filename="CopyTlPyuic.sh">/home/weblab/Documents/TL_CentosInst/</Path>
+                  <Path Filename="TL_CentosInst">/media/sf_LINUX_SHARED/</Path>
+                  <Path Filename="PyQtGUITest">/media/sf_LINUX_SHARED/TL_CentosInst/</Path>
                 </Paths>
               </Entry>
             </History>
