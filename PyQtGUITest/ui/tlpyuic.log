@@ -1,0 +1,7 @@
+2019-01-15 13:55:57,354 - tlpyuic - DEBUG - Start program
+2019-01-15 13:55:57,355 - tlpyuic - DEBUG - Preview mode: False
+2019-01-15 13:55:57,360 - tlpyuic - DEBUG - Command: Linux>>/usr/bin/pyuic5 -o /media/sf_LINUX_SHARED/TL_CentosInst/PyQtGUITest/ui/Ui_mainwindow.py /media/sf_LINUX_SHARED/TL_CentosInst/PyQtGUITest/ui/MainWindow.ui
+2019-01-15 13:55:57,591 - tlpyuic - DEBUG - Input: /media/sf_LINUX_SHARED/TL_CentosInst/PyQtGUITest/ui/MainWindow.ui
+2019-01-15 13:55:57,591 - tlpyuic - DEBUG - Output: /media/sf_LINUX_SHARED/TL_CentosInst/PyQtGUITest/ui/Ui_mainwindow.py
+2019-01-15 13:55:57,591 - tlpyuic - DEBUG - Control output: /media/sf_LINUX_SHARED/TL_CentosInst/PyQtGUITest/ui/mainwindow.py.txt
+2019-01-15 13:55:57,614 - tlpyuic - DEBUG - Exit program

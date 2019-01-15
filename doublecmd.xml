@@ -306,6 +306,13 @@
           <Command>cm_ChangeDir</Command>
           <Param>/media/sf_LINUX_SHARED/</Param>
         </Command>
+        <Command>
+          <ID>{AD6339F4-E826-46A9-B07E-58237AEC354B}</ID>
+          <Icon>/home/weblab/.config/doublecmd/icons/Python02.ico</Icon>
+          <Hint>Python folder</Hint>
+          <Command>cm_ChangeDir</Command>
+          <Param>/lib64/python3.6/</Param>
+        </Command>
       </Row>
     </MainToolbar>
   </Toolbars>
