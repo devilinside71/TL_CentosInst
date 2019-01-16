@@ -84,5 +84,6 @@ cp -rf doublecmd.xml $HOME/.config/doublecmd/
 sudo yum -y install https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
 sudo yum -y install https://download1.rpmfusion.org/free/el/rpmfusion-free-release-7.noarch.rpm
 sudo yum -y install vlc
+sudo yum -y install ffmpeg
 
 
