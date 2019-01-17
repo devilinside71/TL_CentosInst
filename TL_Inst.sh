@@ -24,6 +24,7 @@ sudo pip3.6 install pytube
 sudo pip3.6 install six
 sudo pip3.6 install sip
 sudo pip3.6 install stem
+sudo pip3.6 install ics
 pip3.6 list
 
 
