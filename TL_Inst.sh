@@ -43,6 +43,7 @@ code --install-extension file-icons.file-icons
 code --install-extension hookyqr.beautify
 code --install-extension stevencl.adddoccomments
 code --install-extension formulahendry.code-runner
+code --install-extension visualstudioexptteam.vscodeintellicode
 cp -rf settings.json $HOME/.config/Code/User/
 
 
