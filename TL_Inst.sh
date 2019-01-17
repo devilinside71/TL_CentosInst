@@ -44,6 +44,9 @@ code --install-extension hookyqr.beautify
 code --install-extension stevencl.adddoccomments
 code --install-extension formulahendry.code-runner
 code --install-extension visualstudioexptteam.vscodeintellicode
+code --install-extension ritwickdey.liveserver
+code --install-extension donjayamanne.python-extension-pack
+code --install-extension esbenp.prettier-vscode
 cp -rf settings.json $HOME/.config/Code/User/
 
 
