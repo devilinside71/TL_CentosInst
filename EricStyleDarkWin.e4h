@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HighlightingStyles SYSTEM "HighlightingStyles-4.3.dtd">
+<!-- Eric6 highlighting styles -->
+<!-- Saved: 2019-01-17, 12:50:08-->
+<!-- Author:  -->
+<HighlightingStyles version="4.3">
+  <Lexer name="Python3">
+    <Style style="0" color="#ffffff" paper="#414141" font="Courier New,9,-1,5,50,0,0,0,0,0" eolfill="False">Default</Style>
+    <Style style="1" color="#00b900" paper="#414141" font="Courier New,9,-1,5,50,0,0,0,0,0" eolfill="False">Comment</Style>
+    <Style style="2" color="#839496" paper="#414141" font="Courier New,9,-1,5,50,0,0,0,0,0" eolfill="False">Number</Style>
+    <Style style="3" color="#ffaa00" paper="#414141" font="Courier New,9,-1,5,50,0,0,0,0,0" eolfill="False">Double-quoted string</Style>
+    <Style style="4" color="#ffaa00" paper="#414141" font="Courier New,9,-1,5,50,0,0,0,0,0" eolfill="False">Single-quoted string</Style>
+    <Style style="5" color="#004eec" paper="#414141" font="Courier New,9,-1,5,75,0,0,0,0,0" eolfill="False">Keyword</Style>
+    <Style style="6" color="#ee7700" paper="#414141" font="Courier New,9,-1,5,50,0,0,0,0,0" eolfill="False">Triple single-quoted string</Style>
+    <Style style="7" color="#ee7700" paper="#414141" font="Courier New,9,-1,5,50,0,0,0,0,0" eolfill="False">Triple double-quoted string</Style>
+    <Style style="8" color="#00aa7f" paper="#414141" font="Courier New,9,-1,5,75,0,0,0,0,0" eolfill="False">Class name</Style>
+    <Style style="9" color="#ffff00" paper="#414141" font="Courier New,9,-1,5,75,0,0,0,0,0" eolfill="False">Function or method name</Style>
+    <Style style="10" color="#ffffff" paper="#414141" font="Courier New,9,-1,5,50,0,0,0,0,0" eolfill="False">Operator</Style>
+    <Style style="11" color="#ffffff" paper="#414141" font="Courier New,9,-1,5,50,0,0,0,0,0" eolfill="False">Identifier</Style>
+    <Style style="12" color="#586e75" paper="#414141" font="Courier New,9,-1,5,50,0,0,0,0,0" eolfill="False">Comment block</Style>
+    <Style style="13" color="#ffaaff" paper="#0b0b0b" font="Courier New,9,-1,5,50,0,0,0,0,0" eolfill="False">Unclosed string</Style>
+    <Style style="14" color="#ffffff" paper="#414141" font="Courier New,9,-1,5,50,0,0,0,0,0" eolfill="False">Highlighted identifier</Style>
+    <Style style="15" color="#aa5500" paper="#414141" font="Courier New,9,-1,5,50,0,0,0,0,0" eolfill="False">Decorator</Style>
+  </Lexer>
+</HighlightingStyles>
