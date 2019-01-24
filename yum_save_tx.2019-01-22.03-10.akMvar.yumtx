@@ -1,0 +1,21 @@
+1819:8fe0b12594f228b6c8e162c423109b0f2b3a86fd
+0
+1
+installed:1821:bcc999a8afbf600dcf16904b7adccba83e3124c6
+2
+mbr: qt5-linguist,x86_64,0,5.9.2,1.el7 70
+  repo: base
+  ts_state: u
+  output_state: 20
+  isDep: False
+  reason: user
+  reinstall: False
+mbr: qt5-qttools-common,noarch,0,5.9.2,1.el7 70
+  repo: base
+  ts_state: u
+  output_state: 20
+  isDep: True
+  reason: dep
+  reinstall: False
+  relatedto: qt5-linguist,x86_64,0,5.9.2,1.el7@a:dependson
+  depends_on: qt5-linguist,x86_64,0,5.9.2,1.el7@a

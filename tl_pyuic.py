@@ -152,7 +152,7 @@ class TLPyUIC():
             gen_code += '    """\n'
             gen_code += '    Class documentation goes here.\n'
             gen_code += '    """\n'
-            gen_code += '    def __init__(self, parent=None):\n'
+            gen_code += '    def __init__(self, arguments, parent=None):\n'
             gen_code += '        """\n'
             gen_code += '        Constructor\n'
             gen_code += '        \n'
@@ -168,6 +168,7 @@ class TLPyUIC():
             gen_code += '        logger_fh = logging.FileHandler(\'program.log\')\n'
             gen_code += '        logger_ch = logging.StreamHandler()\n'
             gen_code += '        logger_ch.setLevel(logging.INFO)\n'
+            gen_code += '        self.args = arguments\n'
             gen_code += '\n'
             gen_code += '        # create formatter and add it to the handlers\n'
             gen_code += '\n'
@@ -241,8 +242,11 @@ class TLPyUIC():
                         gen_code += '        """\n'
                         gen_code += '        Slot documentation goes here.\n'
                         gen_code += '        """\n'
-                        gen_code += '        # TODO: not implemented yet\n'
-                        gen_code += '        raise NotImplementedError\n'
+                        if action_name == 'actionQuit':
+                            gen_code += '        self.close()\n'
+                        else:
+                            gen_code += '        # TODO: not implemented yet\n'
+                            gen_code += '        raise NotImplementedError\n'
                 # controls
                 for level3 in level2:
                     level_class = level3.get('class')
