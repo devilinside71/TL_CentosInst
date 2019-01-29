@@ -26,6 +26,8 @@ sudo pip3.6 install sip
 sudo pip3.6 install stem
 sudo pip3.6 install ics
 sudo pip3.6 install libpff-python
+sudo pip3.6 install psycopg2
+sudo pip3.6 install django
 pip3.6 list
 
 
